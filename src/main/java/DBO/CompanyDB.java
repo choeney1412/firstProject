@@ -20,6 +20,7 @@ public class CompanyDB {
             System.out.println("Driver version: " + dm.getDriverVersion());
             System.out.println("Product name: " + dm.getDatabaseProductName());
             System.out.println("Product version: " + dm.getDatabaseProductVersion());
+            System.out.println("successful");
         } catch (SQLException e) {
             System.out.println("DB connection failed");
 
