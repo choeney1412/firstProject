@@ -1,0 +1,69 @@
+h1{
+text-align: center;
+font-size: 60px;
+}
+
+h2{
+text-align: center;
+font-size: 25px;
+
+}
+
+.tabs{
+padding-left: 100px;
+padding-bottom: 100px;
+padding-right: 100px;
+padding-top: 100px;
+}
+
+/* CSS */
+.topButton {
+  background: #5E5DF0;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+div.a{
+padding-top: 20px;
+padding-left: 85%;
+padding-bottom: 30px;
+width: max-content;
+display: flex;
+}
+
+.dateBox{
+margin: auto;
+width: 50%;
+padding: 10px;
+}
+
+#box1{
+  border-radius: 25px;
+  border: 2px solid #000000;
+  height: 80px;
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
+
